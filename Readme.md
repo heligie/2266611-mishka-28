@@ -5,7 +5,7 @@
 
 ## О проекте
 
-<img width="869" alt="Devices Mockup." src="/source/mishka-preview.png">
+<img src="/source/mishka-preview.png" width="869" height="424" alt="Devices Mockup.">
 
 Браузерная поддержка - Google Chrome, Mozilla Firefox, Safari
 
